@@ -1,0 +1,10 @@
+{
+  "name": "sweet-dreams",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal runnable Sweet Dreams web app",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js && node --check app.js"
+  }
+}
